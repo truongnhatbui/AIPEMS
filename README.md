@@ -1,2 +1,2 @@
-# aisolution
-implementing an AI solution to address these concerns without negatively impacting the comfort of occupants
+# AI-Powered Energy Management System
+An AI-powered energy management system (AIPEMS) that dynamically adjusts heating, air conditioning, ventilation, and lighting. 
